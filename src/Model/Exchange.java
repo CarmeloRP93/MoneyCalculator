@@ -10,7 +10,7 @@ public class Exchange {
     }
 
     public Money getMoney() {
-        return money;
+        return money; pam apm
     }
 
     public Currency getCurrency() {
